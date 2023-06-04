@@ -1,6 +1,6 @@
 # Naizam Ali Najad
 
-[![Discord](https://img.shields.io/badge/Discord-NichuNaizam#1178-blue?style=flat&logo=discord)](https://discord.com/users/688328042212360208)
+[![Discord](https://img.shields.io/badge/Discord-NichuNaizam-blue?style=flat&logo=discord)](https://discord.com/users/688328042212360208)
 [![Twitter](https://img.shields.io/badge/Twitter-%40TNaizam-blue?style=flat&logo=twitter)](https://twitter.com/TNaizam)
 [![Website](https://img.shields.io/badge/Website-nichunaizam.me-blue?style=flat&logo=web)](https://www.nichunaizam.me)
 
