@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 
-🔭 I’m currently working on [NLang](https://github.com/NichuNaizam/NLang)
-🌱 I’m currently learning Rust
-📫 How to reach me: [Website](https://nichunaizam.me), [Email](mailto://me@nichunaizam.me), [Discord](https://discord.com/users/688328042212360208)
+🔭 I’m currently working on [NLang](https://github.com/NichuNaizam/NLang) <br>
+🌱 I’m currently learning Rust <br>
+📫 How to reach me: [Website](https://nichunaizam.me), [Email](mailto://me@nichunaizam.me), [Discord](https://discord.com/users/688328042212360208)<br>
 <!--
 **NichuNaizam/NichuNaizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
