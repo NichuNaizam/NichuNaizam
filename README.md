@@ -1,28 +1,32 @@
-### Hi there 👋 
+# Naizam Ali Najad
 
-<div align="center">
-    <a href="https://twitter.com/TNaizam">
-        <img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge
-" alt="Twitter">
-    </a>
-</div>
+[![Discord](https://img.shields.io/badge/Discord-NichuNaizam#1178-blue?style=flat&logo=discord)](https://discord.com/users/688328042212360208)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TNaizam-blue?style=flat&logo=twitter)](https://twitter.com/TNaizam)
+[![Website](https://img.shields.io/badge/Website-nichunaizam.me-blue?style=flat&logo=web)](https://www.nichunaizam.me)
 
-I'm Naizam Ali Najad. A fellow programmer wit
+Hello! I'm Naizam Ali Najad, a passionate individual dedicated to continuous learning and growth. I believe in the power of technology to solve problems and make a positive impact on society. Here are a few things about me:
 
-🔭 I’m currently working on [NLang](https://github.com/NichuNaizam/NLang) <br>
-🌱 I’m currently learning Rust <br>
-📫 How to reach me: [Website](https://nichunaizam.me), [Email](mailto://me@nichunaizam.me), [Discord](https://discord.com/users/688328042212360208)<br>
-<!--
-**NichuNaizam/NichuNaizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Engineer
+- 🌱 Lifelong Learner
+- 🚀 Tech Enthusiast
+- 🌍 World Explorer
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: JavaScript, TypeScript, C++, Python, Java
+- Front-end Development: HTML, CSS, React
+- Back-end Development: Node.js, Express.js, Next.js
+- Database: MongoDB, MySQL
+- Version Control: Git, GitHub
+
+## Projects
+
+- [NLang](https://github.com/NichuNaizam/NLang)
+- [Portfolio](https://github.com/NichuNaizam/Portfolio)
+- [ViewBot](https://github.com/NichuNaizam/ViewBot)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NichuNaizam&show_icons=true&count_private=true)
+
+Feel free to reach out to me through Discord or Twitter. Let's connect and collaborate!
