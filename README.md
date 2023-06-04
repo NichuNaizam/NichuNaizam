@@ -27,6 +27,6 @@ Hello! I'm Naizam Ali Najad, a passionate individual dedicated to continuous lea
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NichuNaizam&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NichuNaizam&show_icons=true&count_private=true&theme=dark)
 
 Feel free to reach out to me through Discord or Twitter. Let's connect and collaborate!
