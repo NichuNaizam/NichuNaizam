@@ -1,5 +1,14 @@
 ### Hi there 👋 
 
+<div align="center">
+    <a href="https://twitter.com/TNaizam">
+        <img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge
+" alt="Twitter">
+    </a>
+</div>
+
+I'm Naizam Ali Najad. A fellow programmer wit
+
 🔭 I’m currently working on [NLang](https://github.com/NichuNaizam/NLang) <br>
 🌱 I’m currently learning Rust <br>
 📫 How to reach me: [Website](https://nichunaizam.me), [Email](mailto://me@nichunaizam.me), [Discord](https://discord.com/users/688328042212360208)<br>
