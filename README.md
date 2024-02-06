@@ -29,4 +29,8 @@ Hello! I'm Naizam Ali Najad, a passionate individual dedicated to continuous lea
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NichuNaizam&show_icons=true&count_private=true&theme=dark)
 
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nichunaizam)
+
 Feel free to reach out to me through Discord or Twitter. Let's connect and collaborate!
