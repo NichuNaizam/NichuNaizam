@@ -1,20 +1,20 @@
 <h1 align="center">hey, I'm Naizam 👋</h1>
-<h3 align="center">Full‑stack • Low-level systems • Mobile & Game dev • Programming since age 10</h3>
+<h3 align="center">Full‑stack • Low-level systems • Mobile & Game dev • Coding since age 10</h3>
 
 <p align="center">
-  Building web, mobile, and game projects with modern stacks like Next.js, React Native, Unity.<br/>
-  Deep into low-level dev—created a scripting language in C (ported to Rust) + custom allocators.<br/>
-  Student from Kerala balancing CBSE Class 11, freelancing, and shipping projects in public.
+  <em>17yo from Kerala building full-stack apps, low-level systems, and games.</em><br/>
+  Created scripting language in C (ported to Rust), 24/7 Auto Army ride-sharing platform, Unity games.<br/>
+  CBSE Class 11 • Freelance dev • Late-night coder shipping in public.
 </p>
 
 ---
 
 ## 🌱 Currently building
 
-- **Full-stack apps**: Next.js + React Native (Expo) + Node.js + TypeScript
-- **Low-level systems**: Scripting language (C → Rust port), performance optimization
-- **Real-world impact**: Ride-sharing platform for emissions reduction
-- **Game dev**: 2D projects in Unity + custom game mechanics
+- **Full-stack**: Next.js + React Native (Expo) + Node.js + TypeScript
+- **Low-level**: Scripting language (C → Rust), custom allocators
+- **Impact**: 24/7 Auto Army (emissions reduction ride-sharing)
+- **Games**: Echoes of Hato (2D Unity)
 
 ---
 
@@ -33,6 +33,7 @@
 ### Core Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -65,27 +66,5 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NichuNaizam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NichuNaizam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NichuNaizam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NichuNaizam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=NichuNaizam&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 💬 Dev Philosophy
-
-> "Code from age 10. Build what matters. Optimize everything. Ship fast."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nichunaizam&color=radical&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
